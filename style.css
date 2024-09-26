@@ -1,0 +1,49 @@
+body {
+    font-family: "StratosSkyeng";
+    text-align: center;
+}
+
+img {
+    width: 800px;
+    border-radius: 25px;
+    margin-top: 50px;
+    max-width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 15px;
+}
+
+div {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+a {
+    font-size: 25px;
+    display: block;
+}
+
+.galery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    
+}
+
+.galeryItem {
+    max-width: 45%;
+}
